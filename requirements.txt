@@ -1,0 +1,9 @@
+flask
+waitress
+sentence-transformers
+faiss-cpu
+numpy
+pypdf
+pymupdf
+requests
+beautifulsoup4

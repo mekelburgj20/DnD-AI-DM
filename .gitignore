@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+
+# RAG Data & Artifacts (Large files/Copyrighted material)
+books/
+rag_artifacts/
+*.pdf
+*.idx
+*.pkl
+
+# Logs
+*.log
