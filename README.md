@@ -1,4 +1,6 @@
-# D&D RAG Agent MCP Server
+# DnD-AI-DM - RAG Agent MCP Server
+
+An MCP setup to enable an AI agent to DM for a DnD campaign.
 
 This project allows an AI agent to query a local library of D&D books using Retrieval Augmented Generation (RAG). It provides an MCP (Model Context Protocol) compatible HTTP server.
 
@@ -43,4 +45,3 @@ Add the following to your MCP settings file:
 ## Tools
 
 -   `query_dnd_books(query: str)`: Searches the processed D&D books for relevant information.
-
